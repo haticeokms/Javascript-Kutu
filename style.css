@@ -1,0 +1,23 @@
+  .box1{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+    background-color: red;
+    color: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius:5px ;
+}
+
+.box2{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    display: inline-block;
+    border-radius:5px ;
+}  
